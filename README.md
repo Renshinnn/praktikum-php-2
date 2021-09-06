@@ -15,3 +15,11 @@ HTML</p>
 <img src="capture/lat5.png" width="70%"><br>
 <h2>Latihan 6</h2>
 <img src="capture/lat6.png" width="70%"><br>
+<h2>Latihan 7</h2>
+<img src="capture/lat7.png" width="70%"><br>
+<h2>Latihan 8</h2>
+<img src="capture/lat8.png" width="70%"><br>
+<h2>Latihan 9</h2>
+<img src="capture/lat9.png" width="70%"><br>
+<h2>Latihan 10</h2>
+<img src="capture/lat10.png" width="70%"><br>
