@@ -1,4 +1,4 @@
-# praktikum-javascript
+# Praktikum PHP Modul 1
 <p>PHP (Preprocesor Hypertext) adalah bahasa scripting yang menyatu dengan HTML dan
 dijalankan pada server-side. Artinya semua sintaks yang diberikan akan sepenuhnya
 dijalankan oleh server, sedangkan yang dikirimkan ke browser hanya hasilnya saja berupa
