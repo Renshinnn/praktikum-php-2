@@ -1,5 +1,5 @@
 # Praktikum PHP Modul 2
-<p><b>Operator</b>Dalam bahasa pemrograman secara umum, operator digunakan untuk
+<p><b>Operator</b> Dalam bahasa pemrograman secara umum, operator digunakan untuk
 memanipulasi atau melakukan proses perhitungan pada suatu nilai. Operator yang akan
 kita pelajari adalah operator aritmatik, perbandingan, gabungan aritmatik dan
 assignment, serta operator logika.</p>
@@ -15,7 +15,7 @@ assignment, serta operator logika.</p>
 <img src="capture/lat5.png" width="70%"><br>
 <h2>Latihan 6</h2>
 <img src="capture/lat6.png" width="70%"><br>
-<p><b>Array</b>Array merupakan tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang
+<p><b>Array</b> Array merupakan tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang
 bertipe sama. Bagian yang menyusun array disebut elemen array. Masing-masing elemen
 array dapat diakses melalui index array. Index array dapat berupa biangan integer atau
 string</p>
